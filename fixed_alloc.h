@@ -2,7 +2,7 @@
   > File Name: fixed_alloc.h
   > Author:Haoson 
   > Created Time: Thu 18 Dec 2014 05:30:39 AM PST
-  > Description: 
+  > Description: 固定大小的内存分配器 
  ************************************************************************/
 
 #ifndef FIXED_ALLOC_H_

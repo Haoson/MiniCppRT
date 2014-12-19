@@ -2,7 +2,7 @@
   > File Name: memory_pool.h
   > Author:Haoson 
   > Created Time: Thu 18 Dec 2014 07:13:49 PM PST
-  > Description: 
+  > Description: 内存分配器辅助类 
  ************************************************************************/
 
 #ifndef MEMORY_POOL_H_
